@@ -1,0 +1,17 @@
+REFERENCE >>>>>>>>>>> https://www.typescriptlang.org/docs/handbook/
+
+to run typescript --> tsc file_name.ts  --> create .js equivalent file
+
+Some of types in ts (All are in lowercase)
+------------------
+number , string , boolean 
+null , undefined , void 
+object , array , tuple   .......
+any , never , unknown 
+
+
+
+variable declaration syntax
+--------------------------
+let variable_name : type = value
+

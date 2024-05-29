@@ -1,0 +1,10 @@
+tsc --init       >>>>>>>>>    used to create simple ts config file
+
+npm init -y   >>>>>>>>   used to create package.json file
+
+to save all output files in /dist folder   >>>>>>> go to tsconfig.json and change >>>> "outDir": "./dist",   
+
+tsc -w    >>>>   to run in waatch mode , used to create output files in /dist folder
+
+to run our file  -------->     "test": "echo \"Error: no test specified\" && exit 1"      >>> to >>>     "start": "lite-server" 
+then npm start to run our application
